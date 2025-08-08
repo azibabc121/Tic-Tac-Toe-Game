@@ -41,6 +41,8 @@ body{
 }
 
 
+
+/* 
 .restart{
    border: none;
    padding: 1em 2em;
@@ -53,7 +55,7 @@ body{
   display: block;
   margin: 1em auto;
   position: relative;
-}
+} */
 .popup{
     background-color: #593392;
     width: 100%;
